@@ -15,7 +15,7 @@ import javax.swing.table.DefaultTableModel;
 
 /**
  *
- * @author George Daniel
+ * @author George Daniel da Silva Souza
  */
 public class JanelaCadastroCliente extends javax.swing.JFrame {
 
@@ -546,7 +546,7 @@ public class JanelaCadastroCliente extends javax.swing.JFrame {
         jCelular.setText("");
         jEmail.setText("");
         jCidade.setText("");
-                jCEstado.setSelectedItem("");
+        jCEstado.setSelectedItem("");
     }
     
      public void criarTabela(){
